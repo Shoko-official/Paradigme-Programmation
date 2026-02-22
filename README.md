@@ -1,7 +1,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Shoko-official/TP1-Genericite?style=social)
 ![Dernier commit](https://img.shields.io/github/last-commit/Shoko-official/TP1-Genericite)
 
-# TP Georgio - ravaux Pratiques
+# TP Georgio - travaux Pratiques
 
 Ce dépôt contient l'ensemble des TPs réalisés, organisés par dossier et documentés avec **Javadoc**.
 
