@@ -1,18 +1,18 @@
+# Java build outputs
 *.class
-*.pyc
-*.o
-*.obj
-*.exe
-*.bin
-.DS_Store
-Thumbs.db
-node_modules/
-.idea/
-.vscode/
-bin/
 out/
 target/
-dist/
 build/
-.git/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
